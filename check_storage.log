@@ -1,0 +1,1434 @@
+2012-06-13 17:00:44,423 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2017-06-13 17:00:44,423 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:00:44,424 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:00:44,424 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:00:44,424 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:00:44,429 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:00:44,433 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:00:44,437 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:00:44,440 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:00:44,443 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:17,839 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:01:17,839 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:01:17,839 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:01:17,839 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:01:17,839 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:01:17,842 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:17,845 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:17,848 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:17,851 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:17,855 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:40,134 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:01:40,134 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:01:40,134 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:01:40,134 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:01:40,134 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:01:40,137 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:40,140 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:40,143 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:40,145 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:01:40,148 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:04,592 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:05:04,592 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:05:04,592 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:05:04,592 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:05:04,592 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:05:04,595 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:04,598 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:04,601 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:04,603 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:04,606 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:27,402 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:05:27,403 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:05:27,403 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:05:27,403 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:05:27,403 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:05:27,405 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:27,408 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:27,411 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:27,413 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:05:27,416 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:11:32,276 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:11:32,276 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:11:32,276 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:11:32,276 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:11:32,276 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:11:32,280 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:11:32,284 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:11:32,287 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:11:32,290 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:11:32,293 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:12:45,414 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:12:45,415 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:12:45,415 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:12:45,415 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:12:45,415 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:12:45,418 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:12:45,421 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:12:45,423 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:12:45,426 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:12:45,428 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:14:47,403 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:14:47,403 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:14:47,403 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:14:47,403 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:14:47,403 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:14:47,406 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:14:47,409 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:14:47,412 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:14:47,414 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:14:47,417 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:15:19,975 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:15:19,975 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:15:19,976 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:15:19,976 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:15:19,976 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:15:19,980 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:15:19,983 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:15:19,986 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:15:19,989 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:15:19,992 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:16:32,770 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:16:32,770 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:16:32,770 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:16:32,770 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:16:32,770 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:16:32,773 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:16:32,776 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:16:32,778 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:16:32,781 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:16:32,784 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:17:47,029 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:17:47,029 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:17:47,029 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:17:47,030 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:17:47,030 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:17:47,034 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:17:47,037 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:17:47,041 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:17:47,044 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:17:47,048 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:18:25,520 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:18:25,521 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:18:25,521 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:18:25,521 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:18:25,522 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:18:25,525 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:18:25,528 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:18:25,532 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:18:25,534 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:18:25,537 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:11,747 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:19:11,747 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:19:11,747 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:19:11,747 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:19:11,747 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:19:11,750 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:11,753 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:11,755 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:11,758 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:11,761 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:16,796 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:19:16,797 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:19:16,798 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:19:16,798 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:19:16,798 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:19:16,801 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:16,804 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:16,807 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:16,810 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:19:16,815 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:28,822 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:21:28,822 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:21:28,822 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:21:28,822 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:21:28,822 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:21:28,825 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:28,829 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:28,832 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:28,836 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:28,839 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:59,607 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:21:59,607 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:21:59,608 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:21:59,608 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:21:59,608 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:21:59,610 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:59,613 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:59,616 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:59,618 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:21:59,622 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:22:34,180 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:22:34,180 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:22:34,180 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:22:34,180 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:22:34,181 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:22:34,183 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:22:34,186 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:22:34,189 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:22:34,191 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:22:34,194 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:23:40,400 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:23:40,400 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:23:40,400 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:23:40,400 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:23:40,400 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:23:40,404 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:23:40,407 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:23:40,409 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:23:40,412 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:23:40,415 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:24:21,452 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:24:21,453 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:24:21,453 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:24:21,453 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:24:21,453 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:24:21,456 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:24:21,459 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:24:21,462 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:24:21,465 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:24:21,468 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:11,864 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:25:11,864 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:25:11,864 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:25:11,865 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:25:11,865 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:25:11,867 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:11,870 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:11,873 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:11,876 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:11,879 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:18,551 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:25:18,551 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:25:18,551 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:25:18,552 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:25:18,552 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:25:18,554 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:18,557 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:18,560 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:18,562 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:18,565 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:24,663 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:25:24,663 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:25:24,663 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:25:24,663 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:25:24,663 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:25:24,666 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:24,669 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:24,672 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:24,674 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:25:24,677 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:27:42,602 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:27:42,602 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:27:42,603 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:27:42,603 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:27:42,603 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:27:42,607 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:27:42,611 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:27:42,614 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:27:42,618 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:27:42,621 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:34:23,849 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:34:23,849 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:34:23,849 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:34:23,850 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:34:23,850 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:34:23,853 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:34:23,857 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:34:23,860 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:34:23,863 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:34:23,866 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:23,303 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:40:23,304 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:40:23,304 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:40:23,304 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:40:23,304 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:40:23,307 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:23,311 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:23,314 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:23,317 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:23,320 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:45,574 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:40:45,574 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:40:45,574 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:40:45,574 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:40:45,574 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:40:45,577 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:45,581 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:45,583 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:45,587 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:40:45,589 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:42:25,878 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:42:25,878 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:42:25,878 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:42:25,879 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:42:25,879 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:42:25,882 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:42:25,885 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:42:25,887 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:42:25,890 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:42:25,894 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:09,541 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:48:09,541 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:48:09,541 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:48:09,542 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:48:09,542 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:48:09,544 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:09,547 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:09,550 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:09,553 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:09,556 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:49,103 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:48:49,103 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:48:49,103 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:48:49,103 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:48:49,103 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:48:49,106 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:49,109 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:49,112 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:49,115 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:48:49,118 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:49:13,304 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:49:13,305 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:49:13,305 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:49:13,305 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:49:13,305 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:49:13,308 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:49:13,310 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:49:13,313 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:49:13,316 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:49:13,319 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:55:18,514 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:55:18,514 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:55:18,515 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:55:18,515 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:55:18,515 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:55:18,518 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:55:18,521 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:55:18,525 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:55:18,527 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:55:18,530 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:58:12,643 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 17:58:12,643 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 17:58:12,643 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 17:58:12,643 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 17:58:12,643 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 17:58:12,647 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:58:12,650 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:58:12,653 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 17:58:12,657 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 17:58:12,660 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:00:50,103 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:00:50,103 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:00:50,104 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:00:50,104 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:00:50,104 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:00:50,107 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:00:50,109 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:00:50,112 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:00:50,115 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:00:50,118 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:31,536 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:01:31,536 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:01:31,536 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:01:31,536 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:01:31,536 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:01:31,539 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:31,542 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:31,544 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:31,547 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:31,550 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:37,301 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:01:37,302 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:01:37,302 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:01:37,302 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:01:37,302 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:01:37,306 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:37,308 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:37,311 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:37,316 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:01:37,321 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:02:49,186 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:02:49,186 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:02:49,186 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:02:49,186 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:02:49,186 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:02:49,190 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:02:49,193 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:02:49,196 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:02:49,199 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:02:49,201 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:33,141 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:04:33,142 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:04:33,142 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:04:33,142 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:04:33,142 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:04:33,146 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:33,149 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:33,151 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:33,154 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:33,157 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:41,979 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:04:41,979 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:04:41,979 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:04:41,979 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:04:41,979 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:04:41,983 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:41,986 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:41,989 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:41,992 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:04:41,995 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:05:06,203 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:05:06,203 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:05:06,204 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:05:06,204 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:05:06,204 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:05:06,207 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:05:06,210 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:05:06,214 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:05:06,217 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:05:06,220 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:08:21,265 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:10:05,423 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:10:26,580 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:10:56,429 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:12:11,969 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:12:31,479 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:14:17,378 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:14:50,255 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:14:50,256 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:14:50,256 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:14:50,256 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:14:50,256 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:14:50,259 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:14:50,263 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:14:50,266 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:14:50,268 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:14:50,271 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:15:43,090 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:15:43,091 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:15:43,091 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:15:43,091 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:15:43,091 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:15:43,094 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:15:43,097 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:15:43,099 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:15:43,102 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:15:43,105 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:07,113 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:16:07,114 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:16:07,114 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:16:07,114 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:16:07,114 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:16:07,117 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:07,120 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:07,123 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:07,126 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:07,128 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:53,274 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:16:53,275 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:16:53,275 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:16:53,275 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:16:53,275 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:16:53,278 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:53,281 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:53,284 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:53,286 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:16:53,289 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:17:36,889 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:17:36,889 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:17:36,889 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:17:36,889 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:17:36,889 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:17:36,893 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:17:36,895 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:17:36,898 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:17:36,901 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:17:36,903 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:04,614 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:19:04,615 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:19:04,615 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:19:04,615 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:19:04,615 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:19:04,618 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:04,621 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:04,625 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:04,628 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:04,631 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:52,795 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:19:52,796 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:19:52,796 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:19:52,796 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:19:52,796 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:19:52,799 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:52,802 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:52,804 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:52,807 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:19:52,809 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:20:17,213 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:20:17,214 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:20:17,214 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:20:17,214 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:20:17,214 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:20:17,217 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:20:17,220 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:20:17,222 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:20:17,225 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:20:17,228 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:21:42,096 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:22:04,933 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:23:14,159 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:23:14,160 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:23:14,160 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:23:14,160 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:23:14,160 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:23:14,163 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:23:14,166 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:23:14,168 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:23:14,171 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:23:14,174 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:29,239 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:25:29,240 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:25:29,240 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:25:29,240 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:25:29,240 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:25:29,243 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:29,246 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:29,248 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:29,251 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:29,254 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:31,398 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:25:31,399 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:25:31,399 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:25:31,399 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:25:31,399 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:25:31,402 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:31,405 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:31,409 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:31,411 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:31,414 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:32,328 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:25:32,328 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:25:32,328 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:25:32,328 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:25:32,328 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:25:32,332 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:32,335 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:32,337 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:32,340 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:32,343 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:34,220 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:25:34,221 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:25:34,221 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:25:34,221 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:25:34,221 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:25:34,224 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:34,227 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:34,230 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:34,233 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:34,235 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:38,704 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:25:38,704 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:25:38,704 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:25:38,704 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:25:38,704 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:25:38,707 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:38,710 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:38,713 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:38,715 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:25:38,718 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:29:28,675 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:29:28,675 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:29:28,675 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:29:28,675 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:29:28,675 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:29:28,678 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:29:28,681 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:29:28,684 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:29:28,687 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:29:28,690 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:29,784 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:32:29,784 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:32:29,784 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:32:29,784 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:32:29,785 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:32:29,788 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:29,792 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:29,795 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:29,798 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:29,801 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:58,398 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:32:58,398 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:32:58,398 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:32:58,398 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:32:58,399 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:32:58,401 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:58,404 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:58,407 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:58,410 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:32:58,412 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:14,510 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:33:14,511 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:33:14,511 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:33:14,511 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:33:14,511 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:33:14,514 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:14,517 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:14,519 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:14,522 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:14,525 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:51,789 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:33:51,790 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:33:51,790 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:33:51,790 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:33:51,790 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:33:51,793 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:51,796 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:51,799 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:51,802 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:33:51,804 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:34:26,279 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:34:26,279 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:34:26,279 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:34:26,279 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:34:26,279 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:34:26,282 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:34:26,285 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:34:26,288 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:34:26,290 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:34:26,293 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:29,771 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:36:29,772 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:36:29,772 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:36:29,772 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:36:29,772 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:36:29,775 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:29,778 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:29,781 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:29,784 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:29,787 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:58,037 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:36:58,038 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:36:58,038 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:36:58,038 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:36:58,038 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:36:58,042 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:58,045 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:58,048 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:58,052 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:36:58,056 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:37:51,712 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:37:51,712 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:37:51,712 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:37:51,713 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:37:51,713 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:37:51,716 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:37:51,719 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:37:51,722 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:37:51,724 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:37:51,727 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:40:28,084 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:41:00,538 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:41:00,539 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:41:00,539 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:41:00,539 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:41:00,539 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:41:00,543 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:41:00,546 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:41:00,549 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:41:00,552 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:41:00,555 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:42:34,247 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:42:34,248 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:42:34,248 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:42:34,248 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:42:34,248 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:42:34,252 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:42:34,254 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:42:34,258 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:42:34,260 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:42:34,263 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:55:41,909 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:55:41,909 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:55:41,909 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:55:41,910 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:55:41,910 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:55:41,913 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:55:41,916 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:55:41,919 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:55:41,922 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:55:41,924 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:58:59,873 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:58:59,873 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:58:59,873 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:58:59,874 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:58:59,874 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:58:59,876 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:58:59,879 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:58:59,882 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:58:59,885 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:58:59,887 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:04,102 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:59:04,102 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:59:04,102 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:59:04,102 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:59:04,102 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:59:04,105 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:04,108 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:04,110 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:04,113 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:04,116 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:39,982 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 18:59:39,982 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 18:59:39,983 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 18:59:39,983 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 18:59:39,983 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 18:59:39,986 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:39,989 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:39,992 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:39,994 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 18:59:39,997 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:00:56,033 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:00:56,034 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:00:56,034 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:00:56,034 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:00:56,034 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:00:56,037 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:00:56,039 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:00:56,042 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:00:56,045 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:00:56,048 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:01:50,758 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:06:15,459 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:06:22,038 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:07:07,964 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:07:07,964 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:07:07,965 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:07:07,965 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:07:07,965 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:07:07,969 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:07:07,973 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:07:07,976 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:07:07,979 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:07:07,982 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:10:27,416 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:10:27,416 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:10:27,416 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:10:27,416 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:10:27,416 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:10:27,419 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:10:27,422 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:10:27,425 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:10:27,427 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:10:27,430 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:02,612 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:11:02,613 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:11:02,613 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:11:02,613 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:11:02,613 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:11:02,616 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:02,619 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:02,621 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:02,624 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:02,627 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:44,703 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:11:44,704 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:11:44,704 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:11:44,704 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:11:44,704 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:11:44,707 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:44,710 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:44,712 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:44,715 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:11:44,718 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:24,789 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:13:24,789 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:13:24,789 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:13:24,789 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:13:24,789 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:13:24,792 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:24,796 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:24,799 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:24,802 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:24,806 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:43,649 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:13:43,649 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:13:43,650 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:13:43,650 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:13:43,650 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:13:43,653 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:43,656 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:43,659 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:43,662 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:13:43,664 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:14:15,603 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:14:15,604 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:14:15,604 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:14:15,604 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:14:15,604 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:14:15,607 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:14:15,611 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:14:15,613 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:14:15,617 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:14:15,620 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:15:42,122 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:15:42,122 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:15:42,122 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:15:42,123 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:15:42,123 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:15:42,126 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:15:42,129 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:15:42,132 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:15:42,134 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:15:42,137 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:16:14,299 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:16:14,300 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:16:14,300 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:16:14,300 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:16:14,300 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:16:14,303 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:16:14,306 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:16:14,308 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:16:14,311 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:16:14,314 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:21:26,175 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:21:26,175 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:21:26,175 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:21:26,175 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:21:26,176 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:21:26,179 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:21:26,182 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:21:26,185 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:21:26,188 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:21:26,191 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:10,830 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:22:10,830 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:22:10,830 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:22:10,831 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:22:10,831 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:22:10,833 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:10,836 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:10,839 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:10,841 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:10,844 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:39,397 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:22:39,398 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:22:39,398 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:22:39,398 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:22:39,398 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:22:39,402 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:39,406 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:39,410 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:39,414 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:22:39,418 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:23:21,560 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:23:21,561 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:23:21,561 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:23:21,561 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:23:21,561 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:23:21,564 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:23:21,567 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:23:21,569 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:23:21,572 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:23:21,575 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:26:33,931 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:26:33,931 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:26:33,931 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:26:33,931 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:26:33,931 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:26:33,935 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:26:33,938 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:26:33,941 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:26:33,945 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:26:33,948 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:27:36,189 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:27:36,190 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:27:36,190 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:27:36,190 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:27:36,190 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:27:36,194 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:27:36,197 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:27:36,200 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:27:36,203 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:27:36,205 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:28,819 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:29:28,819 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:29:28,819 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:29:28,819 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:29:28,820 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:29:28,822 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:28,825 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:28,828 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:28,831 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:28,833 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:34,459 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:29:34,459 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:29:34,459 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:29:34,459 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:29:34,459 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:29:34,462 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:34,465 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:34,467 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:34,470 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:29:34,473 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:31:43,986 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:31:43,986 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:31:43,986 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:31:43,986 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:31:43,986 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:31:43,989 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:31:43,993 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:31:43,995 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:31:43,999 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:31:44,001 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:35,401 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:34:35,401 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:34:35,401 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:34:35,401 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:34:35,402 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:34:35,404 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:35,407 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:35,410 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:35,412 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:35,415 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:55,335 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:34:55,335 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:34:55,335 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:34:55,336 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:34:55,336 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:34:55,339 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:55,341 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:55,344 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:55,347 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:34:55,349 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:04,720 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:36:04,721 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:36:04,721 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:36:04,721 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:36:04,721 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:36:04,725 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:04,727 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:04,730 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:04,733 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:04,736 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:21,909 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:36:21,909 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:36:21,909 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:36:21,909 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:36:21,910 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:36:21,912 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:21,915 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:21,918 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:21,920 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:36:21,923 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:41:25,344 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:41:25,344 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:41:25,344 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:41:25,344 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:41:25,344 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:41:25,348 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:41:25,351 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:41:25,355 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:41:25,358 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:41:25,360 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:42:12,300 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:42:12,300 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:42:12,300 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:42:12,300 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:42:12,300 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:42:12,303 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:42:12,306 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:42:12,308 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:42:12,311 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:42:12,314 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:45:01,824 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:45:01,824 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:45:01,825 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:45:01,825 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:45:01,825 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:45:01,828 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:45:01,831 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:45:01,833 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:45:01,836 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:45:01,839 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:18,295 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:46:18,295 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:46:18,296 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:46:18,296 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:46:18,296 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:46:18,299 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:18,301 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:18,304 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:18,307 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:18,310 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:45,846 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:46:45,847 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:46:45,847 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:46:45,847 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:46:45,847 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:46:45,847 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:46:45,850 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:45,853 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:45,855 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:45,858 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:46:45,861 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:48:52,936 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:48:52,937 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:48:52,937 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:48:52,937 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:48:52,937 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:48:52,940 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:48:52,943 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:48:52,946 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:48:52,948 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:48:52,951 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:49:11,878 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:49:11,878 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:49:11,878 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:49:11,878 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:49:11,879 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:49:11,879 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:49:11,882 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:49:11,885 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:49:11,888 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:49:11,891 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:49:11,894 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:51:19,082 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:51:19,082 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:51:19,082 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:51:19,082 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:51:19,082 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:51:19,082 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:51:19,085 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:51:19,088 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:51:19,091 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:51:19,094 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:51:19,097 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:52:11,851 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-13 19:52:11,851 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:52:11,852 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-13 19:52:11,852 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-13 19:52:11,852 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-13 19:52:11,852 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-13 19:52:11,855 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:52:11,857 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:52:11,860 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-13 19:52:11,862 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-13 19:52:11,865 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:21:26,163 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:21:26,163 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:21:26,163 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:21:26,163 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:21:26,164 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:21:26,169 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:21:26,174 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:21:26,177 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:21:26,180 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:21:26,183 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:28:30,828 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:29:20,835 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:29:20,835 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:29:20,835 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:29:20,835 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:29:20,836 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:29:20,839 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:29:20,843 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:29:20,846 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:29:20,849 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:29:20,852 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:30:44,658 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:31:14,500 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:31:17,122 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:31:46,437 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:32:35,352 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:33:40,101 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:34:17,344 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:34:19,654 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:35:07,709 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:35:31,992 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:35:31,992 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:35:31,992 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:35:31,992 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:35:31,993 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:35:31,997 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:35:32,001 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:35:32,004 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:35:32,007 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:35:32,010 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:12,801 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:36:12,801 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:36:12,801 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:36:12,801 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:36:12,802 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:36:12,804 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:12,807 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:12,809 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:12,812 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:12,815 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:51,118 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:36:51,119 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:36:51,119 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:36:51,119 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:36:51,119 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:36:51,122 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:51,125 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:51,127 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:51,130 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:36:51,132 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:32,457 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:38:32,457 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:38:32,457 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:38:32,457 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:38:32,457 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:38:32,460 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:32,463 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:32,466 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:32,468 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:32,471 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:40,320 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:38:40,320 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:38:40,320 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:38:40,320 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:38:40,320 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:38:40,323 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:40,326 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:40,329 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:40,331 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:38:40,334 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:39:42,569 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:39:42,570 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:39:42,570 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:39:42,570 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:39:42,570 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:39:42,573 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:39:42,575 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:39:42,578 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:39:42,581 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:39:42,583 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:40:11,690 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:40:11,690 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:40:11,690 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:40:11,691 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:40:11,691 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:40:11,693 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:40:11,696 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:40:11,699 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:40:11,701 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:40:11,704 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:17,972 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:41:17,972 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:41:17,972 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:41:17,972 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:41:17,972 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:41:17,975 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:17,978 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:17,981 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:17,983 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:17,986 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:38,226 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:41:38,226 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:41:38,226 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:41:38,226 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:41:38,226 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:41:38,227 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:41:38,229 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:38,232 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:38,235 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:38,238 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:41:38,241 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:43:44,484 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:43:44,484 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:43:44,485 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:43:44,485 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:43:44,485 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:43:44,488 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:43:44,491 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:43:44,493 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:43:44,496 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:43:44,499 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:44:27,046 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:44:27,046 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:44:27,047 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:44:27,047 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:44:27,047 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:44:27,047 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:44:27,050 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:44:27,053 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:44:27,055 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:44:27,058 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:44:27,061 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:46:10,760 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 10:46:10,761 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:46:10,761 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 10:46:10,761 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 10:46:10,761 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 10:46:10,761 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 10:46:10,764 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:46:10,767 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:46:10,769 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 10:46:10,772 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 10:46:10,775 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:00:04,772 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:00:04,773 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:00:04,773 check_storage [WARNING] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:00:04,773 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:00:04,773 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:00:04,773 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:00:04,776 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:00:04,780 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:00:04,783 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:00:04,786 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:00:04,789 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:14:41,083 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:14:41,084 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:14:41,084 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:14:41,084 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:14:41,084 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:14:41,088 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:14:41,092 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:14:41,095 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:14:41,098 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:14:41,101 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:17:11,330 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:17:11,331 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:17:11,331 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:17:11,332 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:17:11,332 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:17:11,334 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:17:11,338 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:17:11,341 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:17:11,343 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:17:11,346 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:36,106 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:18:36,107 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:18:36,107 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:18:36,107 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:18:36,107 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:18:36,110 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:36,113 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:36,116 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:36,119 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:36,121 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:58,084 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:18:58,084 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:18:58,084 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:18:58,084 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:18:58,084 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:18:58,087 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:58,090 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:58,092 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:58,095 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:18:58,098 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:27:04,141 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:28:23,187 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:28:58,107 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:29:01,332 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:29:01,332 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:29:01,332 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:29:01,332 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:29:01,332 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:29:01,335 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:01,338 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:01,341 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:01,344 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:01,347 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:17,116 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:29:17,116 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:29:17,116 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:29:17,116 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:29:17,116 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:29:17,119 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:17,122 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:17,124 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:17,127 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:17,130 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:25,228 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:29:25,229 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:29:25,229 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:29:25,229 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:29:25,229 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:29:25,232 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:25,235 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:25,238 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:25,240 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:25,243 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:42,131 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:29:42,132 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:29:42,132 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:29:42,132 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:29:42,132 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:29:42,135 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:42,137 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:42,140 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:42,143 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:29:42,145 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:53,910 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:37:53,910 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:37:53,910 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:37:53,910 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:37:53,910 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:37:53,914 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:53,918 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:53,921 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:53,924 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:53,927 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:56,997 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:37:56,997 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:37:56,997 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:37:56,998 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:37:56,998 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:37:57,001 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:57,003 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:57,006 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:57,009 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:37:57,012 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:38:29,587 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:38:29,588 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:38:29,588 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:38:29,588 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:38:29,588 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:38:29,591 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:38:29,594 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:38:29,596 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:38:29,599 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:38:29,602 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:39:38,129 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:39:38,129 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:39:38,129 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:39:38,129 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:39:38,129 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:39:38,132 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:39:38,135 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:39:38,138 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:39:38,141 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:39:38,144 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:33,327 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:51:33,328 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:51:33,328 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:51:33,328 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:51:33,328 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:51:33,331 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:33,334 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:33,337 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:33,340 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:33,342 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:34,899 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:51:34,900 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:51:34,900 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:51:34,900 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:51:34,900 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:51:34,903 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:34,905 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:34,908 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:34,911 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:34,913 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:35,846 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:51:35,846 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:51:35,846 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:51:35,846 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:51:35,846 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:51:35,849 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:35,852 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:35,854 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:35,857 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:51:35,860 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:52:05,379 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 11:52:05,379 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 11:52:05,379 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 11:52:05,379 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 11:52:05,379 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 11:52:05,382 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:52:05,385 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:52:05,387 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 11:52:05,390 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 11:52:05,392 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 12:33:09,165 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 12:33:09,165 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 12:33:09,165 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 12:33:09,165 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 12:33:09,166 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 12:33:09,170 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 12:33:09,173 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 12:33:09,176 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 12:33:09,179 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 12:33:09,182 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:40,421 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:07:40,421 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:07:40,421 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:07:40,421 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:07:40,421 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:07:40,425 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:40,429 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:40,432 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:40,434 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:40,437 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:59,388 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:07:59,389 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:07:59,389 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:07:59,389 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:07:59,389 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:07:59,392 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:59,394 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:59,397 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:59,399 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:07:59,402 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:08:53,465 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:08:53,465 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:08:53,465 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:08:53,465 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:08:53,466 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:08:53,468 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:08:53,471 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:08:53,473 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:08:53,476 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:08:53,479 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:16:36,738 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:16:36,738 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:16:36,738 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:16:36,738 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:16:36,738 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:16:36,742 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:16:36,746 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:16:36,750 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:16:36,753 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:16:36,756 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:17:19,856 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:17:19,856 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:17:19,857 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:17:19,857 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:17:19,857 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:17:19,859 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:17:19,862 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:17:19,865 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:17:19,867 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:17:19,870 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:05,328 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:18:05,328 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:18:05,328 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:18:05,328 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:18:05,328 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:18:05,331 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:05,334 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:05,336 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:05,339 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:05,342 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:33,479 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:18:33,479 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:18:33,479 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:18:33,480 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:18:33,480 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:18:33,483 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:33,485 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:33,488 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:33,491 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:18:33,493 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:25:52,244 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2019-06-14 13:25:52,244 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
+2019-06-14 13:25:52,245 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
+2019-06-14 13:25:52,245 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
+2019-06-14 13:25:52,245 check_storage [INFO] /media/data_area_2: 38% (Avail: 17814 mb) Capa: 30108 mb
+2019-06-14 13:25:52,248 check_storage [INFO] Execute command: [touch /media/data_area/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:25:52,252 check_storage [INFO] Execute command: [touch /dev/shm/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:25:52,256 check_storage [INFO] Execute command: [touch /check_storage_tmp.dat] [stderr:]
+2019-06-14 13:25:52,259 check_storage [INFO] Execute command: [touch /boot/check_storage_tmp.dat] [stderr:]
+2019-06-14 13:25:52,262 check_storage [INFO] Execute command: [touch /media/data_area_2/check_storage_tmp.dat] [stderr:]

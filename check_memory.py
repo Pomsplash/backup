@@ -58,6 +58,8 @@ def check_memory(curr_memory,pre_memory):
     diff_memory = int(curr_memory_word[7]) - int(pre_memory_word[7])
     print "Different time :", diff_time
     print "Different memory :", abs(diff_memory)
+    slope = float(diff_memory)/float(diff_time)
+    print "Slope :", abs(slope)
     
 
 def save_current_memory(curr_memory):

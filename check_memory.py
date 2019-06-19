@@ -46,18 +46,18 @@ def get_previous_memory():
     return pre_memory
 
 def check_memory(curr_memory,pre_memory):
-    """print curr_memory
-    print '\n'
-    print pre_memory"""
 
     curr_memory_word = curr_memory.split()
     pre_memory_word = pre_memory.split()
 
-    print curr_memory_word[7]
-    print pre_memory_word[7]
-    print curr_memory_word[0]
-    print pre_memory_word[0]
+    curr_memory_word[7] = int(filter(str.isdigit, curr_memory_word[7]))
+    pre_memory_word[7] = int(filter(str.isdigit, pre_memory_word[7]))
+    # m = y2-y1 /x2-x1
 
+    diff_time = int(curr_memory_word[0]) - int(pre_memory_word[0])
+    diff_memory = int(curr_memory_word[7]) - int(pre_memory_word[7])
+    print "Different time :", diff_time
+    print "Different memory :", abs(diff_memory)
     
 
 def save_current_memory(curr_memory):
